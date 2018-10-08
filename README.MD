@@ -1,6 +1,6 @@
 ### Тестовое на хакатон.
   Дедлайн 16 октября!
-  [https://docs.google.com/forms/d/e/1FAIpQLSfzrYJjY3F9Qlhn52arWwSEyJOvHEFvnn9f-DJUKDRwo3KRdA/viewform](Задание здесь)
+  [Тестовое](https://docs.google.com/forms/d/e/1FAIpQLSfzrYJjY3F9Qlhn52arWwSEyJOvHEFvnn9f-DJUKDRwo3KRdA/viewform)
   
   
 ## Шо надо, чтобы работать:
